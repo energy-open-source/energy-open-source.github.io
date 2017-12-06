@@ -1,5 +1,3 @@
-# Energy Open Source
-
 ### [Local Solar Sharing Scheme Model](https://github.com/luke-marshall/embedded-network-model "Local Solar Sharing Model")
 Intended for modelling embedded networks, local solar and peer to peer electricity networks. This software was developed by Naomi Stringer, Luke Marshall and Rob Passey at the UNSW Center for Energy and Environmental Markets (CEEM).
 
