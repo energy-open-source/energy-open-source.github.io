@@ -6,7 +6,7 @@ Intended for modelling embedded networks, local solar and peer to peer electrici
 The project code can be found [here](https://github.com/luke-marshall/embedded-network-model "Local Solar Sharing Model").
 
 
-### Peer to Peer Meter Timing Simulation
+### [Peer to Peer Meter Timing Simulation](https://github.com/luke-marshall/microgrid-timing "Peer to Peer Meter Timing")
 A simple model that determines the impact of meter timing intervals (ie. 5-minute / 30-minute) on the accuracy of peer to peer energy accounting. 
 
 Code can be found [here](https://github.com/luke-marshall/microgrid-timing "Peer to Peer Meter Timing").
